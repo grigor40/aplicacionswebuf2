@@ -8,3 +8,10 @@ table {
     vertical-align: top;
     border: 1px solid #000;
  }
+
+ td.vermell {
+    background-color: red;
+ }
+ td.groc {
+    background-color: yellow;
+ }
